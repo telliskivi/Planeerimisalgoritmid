@@ -1,0 +1,4 @@
+Kas kuidagi saaks keskmist ooteaega veel väiksemaks kui ükski neist neljast algoritmist sai? Kui jah, siis näiteks kuidas? Kui ei, siis miks?
+
+Viies programmis sisse muutused, et lõimed ära jaotada protsesside peale, saaks ooteaja lühemaks.
+
